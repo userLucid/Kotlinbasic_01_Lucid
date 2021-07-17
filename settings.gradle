@@ -1,0 +1,2 @@
+rootProject.name = "Kotlinbasic_01_Lucid"
+include ':app'
